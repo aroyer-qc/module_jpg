@@ -1,2 +1,3 @@
 # module_jpg
-jpg decoder from third party
+
+pg decoder used in my third party module library
